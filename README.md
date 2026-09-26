@@ -1,2 +1,2 @@
 # Solar-System-Demo
-simulación interactiva del sitema solar 
+simulación interactiva del sistema solar. 
